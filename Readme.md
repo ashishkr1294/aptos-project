@@ -1,5 +1,8 @@
 # SimpleAuction Smart Contract
 
+ID: 0xe49a0d55352bd21a65cd81b38621b659fca9724c916007ca457e5e59d50eb1b1
+![image](https://github.com/user-attachments/assets/330fca64-b724-4711-8629-b58909bccfc8)
+
 ## Vision
 
 The **SimpleAuction** smart contract enables decentralized auctions, allowing users to create and manage auctions transparently. The contract ensures fair bidding, refunds the previous highest bidder, and tracks the highest bid in a secure, trustless environment.
